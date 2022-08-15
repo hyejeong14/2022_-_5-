@@ -1,0 +1,6 @@
+10위(12위와 중복)-Starfield COEX Mall 
+11위-Myeong Dong Walking Street
+19위-Lotte World Aquarium
+
+final은 구글 크롤링한 리뷰
+tripadvisor 폴더 안에 트립어드바이저 크롤링한 리뷰
