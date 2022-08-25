@@ -1,0 +1,28 @@
+장소와 특정 키워드가 포함된 리뷰들을 모아놓은 파일
+csv파일은 감성분석(logisitic) 코드를 돌리면 나오는 결과이고
+word 파일에는 리뷰에 키워드가 어떻게 쓰였는지 첫 페이지에만 표시해 놓음
+
+Dongdaemun Design Plaza:
+subway(긍정)
+-지하철 역과 가까워 접근성 좋다는 리뷰 다수
+night(긍정)
+-야간 조명과 LED 꽃밭 등 밤에 방문 시 만족도 높다는 리뷰 다수
+inside(부정)
+-실내에 볼 게 없다는 리뷰 많음
+
+Myeongdong Shopping Street:
+부정 : overpriced, pricey 등 + touristy
+긍정 : affordable
+긍정에는 합리적이라 하고 부정에는 비싸다고 나옴
+리뷰를 찾아본 결과 affordable은 주로 화장품이나 옷 같은 브랜드 상품 리뷰에 긍정적으로 사용되었고
+overpriced, pricey 등은 주로 길거리 음식이 비싸다는 부정적 리뷰에 사용됨
+--------->touristy하기 때문에 길거리 음식이 다소 비쌀 수 있고, 다만 관광객들이 화장품이나 옷 등을 쇼핑하는 데에는 괜찮음
+다만 tripadvisor 내에 코로나 이전 리뷰까지 포함됐음
+
+Lotte World:
+부정 : queue, queues, minutes, pass 등등
+대기(queue) 시간이 엄청나게 긺. 매직패스(pass)가 없으면 대기하느라 힘들 것이라는 리뷰 많음 
+긍정: subway
+-잠실역과 접근성이 좋음
+긍정: 그냥 재밌었다는 표현이 많음
+-------->가족, 어린이들과 가기에는 좋으나 긴 대기시간으로 인한 단점을 고려하여 추천해줘야 함
